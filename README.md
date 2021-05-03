@@ -12,3 +12,10 @@ Au programme, vous devrez créer :
 une fonction pour vérifier et valider le coup qui vient d’être joué 
 une fonction de résultat pour déclarer le vainqueur du tour 
 un compteur de points pour suivre le score total 
+
+# Le jeu du pendu 
+
+Dans les idées de projets Python d’entrée de gamme, le Pendu est l’un des jeux les plus populaires. 
+Un mot est choisi soit par le joueur adverse, soit par le programme.
+Et le joueur dispose de tout l’alphabet pour deviner les lettres.
+Le but pour le joueur est de devenir le mot en choisissant les lettres bonnes lettre. Si la lettre est correcte, le mot est complété. Si la lettre choisie est incorrecte, vous perdez une vie et le pendu apparaît davantage. La partie se termine soit par une victoire si le mot entier est trouvé, soit par une défaite sir le bonhomme du pendu apparaît en intégralité (vous n’avez plus de vie). Traditionnellement, six erreurs sont autorisées avant que le joueur ne perde le jeu, mais ce nombre peut être modifié en fonction de la manière dont vous souhaitez créer votre itération du jeu. 
